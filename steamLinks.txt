@@ -1,0 +1,5 @@
+https://steamcdn-a.akamaihd.net/steam/apps/APP_ID/library_600x900_2x.jpg - Game Cover
+
+https://steamcdn-a.akamaihd.net/steam/apps/APP_ID/library_hero.jpg - Game Page Background
+
+https://steamcdn-a.akamaihd.net/steam/apps/APP_ID/logo.png - Game Logo (transparent)
